@@ -1,0 +1,15 @@
+/account/
+/authorization/
+/eureka-service/
+/history/
+/profile/
+/public-info/
+/target/
+/transfer/
+/.idea/
+
+checkstyle.xml
+docker-compose.yml
+HELP.md
+pom.xml
+/antifraud/target/
